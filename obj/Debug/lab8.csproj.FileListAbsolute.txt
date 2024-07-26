@@ -1,0 +1,7 @@
+C:\Harsha\Lambton_books\term-2\C#\A2\C0931034_Assignment_2\lab8\bin\Debug\lab8.exe.config
+C:\Harsha\Lambton_books\term-2\C#\A2\C0931034_Assignment_2\lab8\bin\Debug\lab8.exe
+C:\Harsha\Lambton_books\term-2\C#\A2\C0931034_Assignment_2\lab8\bin\Debug\lab8.pdb
+C:\Harsha\Lambton_books\term-2\C#\A2\C0931034_Assignment_2\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+C:\Harsha\Lambton_books\term-2\C#\A2\C0931034_Assignment_2\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Harsha\Lambton_books\term-2\C#\A2\C0931034_Assignment_2\lab8\obj\Debug\lab8.exe
+C:\Harsha\Lambton_books\term-2\C#\A2\C0931034_Assignment_2\lab8\obj\Debug\lab8.pdb
