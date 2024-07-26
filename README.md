@@ -61,10 +61,6 @@ The program consists of several methods, each responsible for different aspects 
 
 If you would like to contribute to the project, please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
 
 Developed as part of the 08101 Programming I course.
